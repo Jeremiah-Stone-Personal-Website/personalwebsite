@@ -1,0 +1,91 @@
+.title{
+font: weight 500px;
+font-style: italic;
+font-size: 3em;
+display: inline;
+text-decoration: underline;
+}
+.navi{
+    font-size: 2.5em;
+    float: right;
+    
+}
+header{
+    background-color: rgba(158, 7, 7, 0.671);
+}
+a{
+color: rgb(243, 150, 9);
+}
+
+a:hover{
+    color: white;
+}
+.pass{
+    text-decoration: none;
+}
+
+body{
+    background-color: rgba(0, 0, 255, 0.603);
+}
+.home{
+    font-size: 3em;
+    text-shadow: 3px 2px 5px black;
+    
+    margin-left: 600px;
+}
+.mission{
+    font-size: 2.3em;
+    font-variant: small-caps;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(54, 12, 241);
+    color: rgb(120, 230, 17);
+    padding: 20px;
+}
+.quote{
+    font-style: italic;
+    font-size: 4em;    
+    text-shadow: 2px 3px 5px;
+    margin-left: 30px;
+
+    }
+    span{
+        font-weight: 700;
+        text-decoration: underline;
+    }
+    .con{
+        font-size: 1.8em;
+    }
+    .contain{
+        display: flex;
+        align-items: center;
+        justify-content:center;
+    }
+    img{
+        max-width: 100%;
+    }
+    footer{
+        box-sizing: border-box;
+        position: relative;
+        text-align: center;
+        padding: 20px;
+        bottom: 100px;
+        left: 0;
+        right: 0;   
+    }   
+        h4{
+        font-size: 2em;
+    }
+    .proof{
+        font-size: 1.5em;
+        
+    }
+    .source{
+        margin-left: 50px;
+    }
+   .social{
+    max-width: 5%;
+       }
+       .fsocial{
+        max-width: 7%;
+       }
+    
