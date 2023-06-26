@@ -68,7 +68,7 @@ body{
         position: relative;
         text-align: center;
         padding: 20px;
-        bottom: 100px;
+        bottom: 50px;
         left: 0;
         right: 0;   
     }   
@@ -88,4 +88,18 @@ body{
        .fsocial{
         max-width: 7%;
        }
-    
+    h2{
+        font-size: 3em;
+        text-decoration: underline;
+        
+    }
+    .impor{
+        font-style: italic;
+        font-size: 2em;
+        text-shadow: 1px 1px 2px;
+    }
+    .worker{
+        font-size: .8em;
+        font-style: normal;
+        
+    }
