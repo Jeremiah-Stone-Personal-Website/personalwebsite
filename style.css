@@ -163,13 +163,13 @@ body{
   .banana{
     border-top: solid 3px black;
     border-bottom: none;
-    width: 35.6%;
+    width: 99%;
     margin-left: .1em ;
   }
   .banana2{
     border-top: solid 3px black;
     border-bottom: none;
-    width: 34.5%;
+    width: 95%;
     margin-left: .1em ;
   }
   .practice{
@@ -180,3 +180,9 @@ body{
   #orange {
 margin: -300px 380px 0px 0px;
   }
+.contact{
+display: flex;
+justify-content: center;
+font-weight: 900;
+  }
+  
