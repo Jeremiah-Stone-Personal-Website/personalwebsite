@@ -1,3 +1,4 @@
+/* make the title stand out  */
 .title{
 font: weight 500px;
 font-style: italic;
@@ -5,6 +6,7 @@ font-size: 3em;
 display: inline;
 text-decoration: underline;
 }
+/* make the nav be on the far side of page */
 .navi{
     font-size: 2.5em;
     float: right;
@@ -13,6 +15,7 @@ text-decoration: underline;
 header{
     background-color: rgba(158, 7, 7, 0.671);
 }
+/* give the link a different color and when hovering over the link */
 a{
 color: rgb(243, 150, 9);
 }
@@ -20,6 +23,7 @@ color: rgb(243, 150, 9);
 a:hover{
     color: white;
 }
+/* give the links in the nav bar to stand out so you know what page you are on */
 .pass{
     text-decoration: none;
 }
@@ -29,12 +33,14 @@ body{
        
 
 }
+/* give some color and help make it stand-out */
 .home{
     font-size: 3em;
     text-shadow: 3px 2px 5px black;
     
     margin-left: 600px;
 }
+/* make the words stand-out and work with the background color */
 .mission{
     font-size: 2.3em;
     font-variant: small-caps;
@@ -43,6 +49,7 @@ body{
     color: rgb(120, 230, 17);
     padding: 20px;
 }
+/* make quote be a little different */
 .quote{
     font-style: italic;
     font-size: 4em;    
@@ -50,6 +57,7 @@ body{
     margin-left: 30px;
 
     }
+    /* help make an inline element and help bring importnace to the word */
     span{
         font-weight: 700;
         text-decoration: underline;
@@ -57,6 +65,7 @@ body{
     .con{
         font-size: 1.8em;
     }
+    /* organzining the container to allow things to move */
     .contain{
         display: flex;
         align-items: center;
@@ -65,6 +74,7 @@ body{
     img{
         max-width: 100%;
     }
+    /* make the footer be at the bottom of the page and stand-out and almost look like a nav bar */
     footer{
         box-sizing: border-box;
         position: relative;
@@ -118,6 +128,7 @@ body{
         
         
     }
+    /* making the words stand-out */
     .future{
       font-size: 2.1em;
       font-weight: bold;
@@ -125,6 +136,7 @@ body{
       padding:0px 0px 0px 80px ; 
 
     }
+    /* have the words not ba as close to things and make space */
     .box p{
         font-size: 1.5em;
         font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -134,6 +146,7 @@ body{
       
        
     }
+    /* trying to get images to move around in the element */
   .pine{
     margin-left: 500px;
     width: 800px;
