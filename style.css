@@ -185,4 +185,7 @@ display: flex;
 justify-content: center;
 font-weight: 900;
   }
-  
+  .resize{
+    top: 200px;
+    
+  }
