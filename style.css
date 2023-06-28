@@ -103,6 +103,7 @@ body{
     h2{
         font-size: 3em;
         text-decoration: underline;
+        margin-left: 2%;
         
     }
     .impor{
@@ -113,6 +114,7 @@ body{
     .worker{
         font-size: .8em;
         font-style: normal;
+       
         
     }
     h1{
@@ -125,6 +127,7 @@ body{
         background-color: rgb(32, 155, 69);
         margin: 20px 10px 10px 20px;
         padding: 5px;
+        box-sizing: border-box;
         
         
     }
@@ -149,8 +152,31 @@ body{
     /* trying to get images to move around in the element */
   .pine{
     margin-left: 500px;
-    width: 800px;
-    
+    width: 800px;  
 
   }
-    
+  hr{
+    border-top: black 3px solid;
+    border-bottom: none;
+  }
+ 
+  .banana{
+    border-top: solid 3px black;
+    border-bottom: none;
+    width: 35.6%;
+    margin-left: .1em ;
+  }
+  .banana2{
+    border-top: solid 3px black;
+    border-bottom: none;
+    width: 34.5%;
+    margin-left: .1em ;
+  }
+  .practice{
+    display: flex;       
+    justify-content: space-evenly;
+   align-items: center; 
+  }
+  #orange {
+margin: -300px 380px 0px 0px;
+  }
